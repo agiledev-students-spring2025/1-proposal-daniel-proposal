@@ -1,5 +1,11 @@
 # Project Proposal
 
+### Members
+[Daniel Brito](https://github.com/danny031103 )
+
+[Alvaro Martinez](https://github.com/AlvaroMartinezM)
+
+
 ### Project title
 
 NYU Pick-up Basketball
